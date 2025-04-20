@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "delicate-resonance-ba81",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "378bc063-3938-4708-aedc-738e5f5a05c3",
+      "database_name": "lucky-bar-1b2f-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
